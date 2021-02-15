@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Game Pieces">
+      <UniqueIdentifier>{0474ef8b-829f-4ec0-ae34-aa1f08006aa7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game Pieces">
+      <UniqueIdentifier>{8bbae76f-9d40-40a6-b4c1-d52fca80a9b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Game Pieces">
+      <UniqueIdentifier>{41259d51-e178-4c6d-b746-3007aea522df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Game Pieces\White">
+      <UniqueIdentifier>{630d09ab-f644-4849-a721-2bdaa0e34e41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Game Pieces\Black">
+      <UniqueIdentifier>{162bc62f-052c-4df8-8527-1bd54f85a599}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Windows">
+      <UniqueIdentifier>{256ccfe0-410b-4755-9d39-0d669a7bd302}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Windows">
+      <UniqueIdentifier>{26d51d04-0779-4b16-8059-959f9839aef5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="EasyGraphics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ChessBoard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ChessBoardTile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GamePiece.cpp">
+      <Filter>Source Files\Game Pieces</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pawn.cpp">
+      <Filter>Source Files\Game Pieces</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameWindow.cpp">
+      <Filter>Source Files\Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="Castle.cpp">
+      <Filter>Source Files\Game Pieces</Filter>
+    </ClCompile>
+    <ClCompile Include="Bishop.cpp">
+      <Filter>Source Files\Game Pieces</Filter>
+    </ClCompile>
+    <ClCompile Include="King.cpp">
+      <Filter>Source Files\Game Pieces</Filter>
+    </ClCompile>
+    <ClCompile Include="Queen.cpp">
+      <Filter>Source Files\Game Pieces</Filter>
+    </ClCompile>
+    <ClCompile Include="Knight.cpp">
+      <Filter>Source Files\Game Pieces</Filter>
+    </ClCompile>
+    <ClCompile Include="StartWindow.cpp">
+      <Filter>Source Files\Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="InputBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HighscoresWindow.cpp">
+      <Filter>Source Files\Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="EasyGraphics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ChessBoard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ChessBoardTile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GamePiece.h">
+      <Filter>Header Files\Game Pieces</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pawn.h">
+      <Filter>Header Files\Game Pieces</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameWindow.h">
+      <Filter>Header Files\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="Castle.h">
+      <Filter>Header Files\Game Pieces</Filter>
+    </ClInclude>
+    <ClInclude Include="Bishop.h">
+      <Filter>Header Files\Game Pieces</Filter>
+    </ClInclude>
+    <ClInclude Include="King.h">
+      <Filter>Header Files\Game Pieces</Filter>
+    </ClInclude>
+    <ClInclude Include="Queen.h">
+      <Filter>Header Files\Game Pieces</Filter>
+    </ClInclude>
+    <ClInclude Include="Knight.h">
+      <Filter>Header Files\Game Pieces</Filter>
+    </ClInclude>
+    <ClInclude Include="StartWindow.h">
+      <Filter>Header Files\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="InputBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HighscoresWindow.h">
+      <Filter>Header Files\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Images\White\Bishop.bmp">
+      <Filter>Resource Files\Game Pieces\White</Filter>
+    </Image>
+    <Image Include="Images\White\King.bmp">
+      <Filter>Resource Files\Game Pieces\White</Filter>
+    </Image>
+    <Image Include="Images\White\Knight.bmp">
+      <Filter>Resource Files\Game Pieces\White</Filter>
+    </Image>
+    <Image Include="Images\White\Pawn.bmp">
+      <Filter>Resource Files\Game Pieces\White</Filter>
+    </Image>
+    <Image Include="Images\White\Queen.bmp">
+      <Filter>Resource Files\Game Pieces\White</Filter>
+    </Image>
+    <Image Include="Images\White\Ruck.bmp">
+      <Filter>Resource Files\Game Pieces\White</Filter>
+    </Image>
+    <Image Include="Images\Black\Bishop.bmp">
+      <Filter>Resource Files\Game Pieces\Black</Filter>
+    </Image>
+    <Image Include="Images\Black\King.bmp">
+      <Filter>Resource Files\Game Pieces\Black</Filter>
+    </Image>
+    <Image Include="Images\Black\Knight.bmp">
+      <Filter>Resource Files\Game Pieces\Black</Filter>
+    </Image>
+    <Image Include="Images\Black\Pawn.bmp">
+      <Filter>Resource Files\Game Pieces\Black</Filter>
+    </Image>
+    <Image Include="Images\Black\Queen.bmp">
+      <Filter>Resource Files\Game Pieces\Black</Filter>
+    </Image>
+    <Image Include="Images\Black\Ruck.bmp">
+      <Filter>Resource Files\Game Pieces\Black</Filter>
+    </Image>
+    <Image Include="Images\BackArrow.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\NextArrow.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

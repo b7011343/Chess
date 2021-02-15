@@ -1,0 +1,44 @@
+﻿  Bishop.cpp
+  Button.cpp
+  Castle.cpp
+D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\Chess Game\GamePiece.h(11): warning C4091: 'static ': ignored on left of 'GamePiece::Team' when no variable is declared
+  ChessBoard.cpp
+D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\Chess Game\GamePiece.h(11): warning C4091: 'static ': ignored on left of 'GamePiece::Team' when no variable is declared
+  ChessBoardTile.cpp
+D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\Chess Game\GamePiece.h(11): warning C4091: 'static ': ignored on left of 'GamePiece::Team' when no variable is declared
+  EasyGraphics.cpp
+  Entity.cpp
+  GamePiece.cpp
+D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\Chess Game\GamePiece.h(11): warning C4091: 'static ': ignored on left of 'GamePiece::Team' when no variable is declared
+  GameWindow.cpp
+D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\Chess Game\GamePiece.h(11): warning C4091: 'static ': ignored on left of 'GamePiece::Team' when no variable is declared
+  HighscoresWindow.cpp
+D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\Chess Game\GamePiece.h(11): warning C4091: 'static ': ignored on left of 'GamePiece::Team' when no variable is declared
+D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\Chess Game\GamePiece.h(11): warning C4091: 'static ': ignored on left of 'GamePiece::Team' when no variable is declared
+D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\Chess Game\Button.h(50,2): warning C4984: 'if constexpr' is a C++17 language extension
+  InputBox.cpp
+  King.cpp
+D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\Chess Game\Button.h(55,7): warning C4984: 'if constexpr' is a C++17 language extension
+  Knight.cpp
+D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\Chess Game\GamePiece.h(11): warning C4091: 'static ': ignored on left of 'GamePiece::Team' when no variable is declared
+  Main.cpp
+D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\Chess Game\GamePiece.h(11): warning C4091: 'static ': ignored on left of 'GamePiece::Team' when no variable is declared
+D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\Chess Game\Button.h(50,2): warning C4984: 'if constexpr' is a C++17 language extension
+D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\Chess Game\Button.h(55,7): warning C4984: 'if constexpr' is a C++17 language extension
+  Pawn.cpp
+D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\Chess Game\GamePiece.h(11): warning C4091: 'static ': ignored on left of 'GamePiece::Team' when no variable is declared
+  PlayerManager.cpp
+D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\Chess Game\GamePiece.h(11): warning C4091: 'static ': ignored on left of 'GamePiece::Team' when no variable is declared
+  Queen.cpp
+D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\Chess Game\GamePiece.h(11): warning C4091: 'static ': ignored on left of 'GamePiece::Team' when no variable is declared
+  StartWindow.cpp
+D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\Chess Game\GamePiece.h(11): warning C4091: 'static ': ignored on left of 'GamePiece::Team' when no variable is declared
+D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\Chess Game\Button.h(50,2): warning C4984: 'if constexpr' is a C++17 language extension
+D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\Chess Game\Button.h(55,7): warning C4984: 'if constexpr' is a C++17 language extension
+  Timer.cpp
+D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\Chess Game\GamePiece.h(11): warning C4091: 'static ': ignored on left of 'GamePiece::Team' when no variable is declared
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 845 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Chess Game.vcxproj -> D:\One Drive\OneDrive - Sheffield Hallam University\University Drive\Computer Science BSc\Modules\Year 2\OOP for CS\Chess Game\x64\Release\Chess Game.exe
